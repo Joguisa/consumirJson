@@ -3,40 +3,40 @@
         "id": 0,
         "name": "Transformers",
         "category": "Acción, Aventura, Ciencia Ficción",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jAxJimwdCHbdNRPnR6ciwhj6bXP.jpg",
-        "Popularity": "74%",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yu24fXpro7jx4XFlgEWwElW1kgW.jpg",
+        "popularity": "74%",
         "date": "6 jun 2023"
     },
     {
         "id": 1,
         "name": "Flash",
         "category": "Acción, Aventura, Ciencia Ficción",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg",
-        "Popularity": "69%",
+        "imageUrl": "https://www.themoviedb.org/t/p/w220_and_h330_face/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg",
+        "popularity": "69%",
         "date": "13 jun 2023"
     },
     {
         "id": 2,
         "name": "Barbie",
         "category": "Comedia, Aventura, Fantasía",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
-        "Popularity": "77%",
+        "imageUrl": "https://www.themoviedb.org/t/p/w220_and_h330_face/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+        "popularity": "77%",
         "date": "19 jul 2023"
     },
     {
         "id": 3,
         "name": "Gaurdianes de la Galaxia",
         "category": "Ciencia ficción, Aventura, Acción",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg",
-        "Popularity": "81%",
+        "imageUrl": "https://www.themoviedb.org/t/p/w220_and_h330_face/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg",
+        "popularity": "81%",
         "date": "3 may 2023"
     },
     {
         "id": 4,
         "name": "Warhorse One",
         "category": "Acción, Aventura, Ciencia Ficción",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/laFhAOqkWFi4sFeGPg8uun2Julw.jpg",
-        "Popularity": "70%",
+        "imageUrl": "https://www.themoviedb.org/t/p/w220_and_h330_face/laFhAOqkWFi4sFeGPg8uun2Julw.jpg",
+        "popularity": "70%",
         "date": "30 jun 2023"
     },
     {
@@ -44,7 +44,7 @@
         "name": "Fast & Furious X",
         "category": "Acción, Crimen, Suspense",
         "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg",
-        "Popularity": "73%",
+        "popularity": "73%",
         "date": "17 may 2023"
     },
     {
@@ -52,7 +52,7 @@
         "name": "Malka. Guardiana del bosque",
         "category": "Acción, Aventura, Ciencia Ficción",
         "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jOxj7rKp2eI24LFYSlTCZsgfqnc.jpg",
-        "Popularity": "75%",
+        "popularity": "75%",
         "date": "2 mar 2023"
     },
     {
@@ -60,7 +60,7 @@
         "name": "Los Caballeros del Zodíaco",
         "category": "Fantasía, Acción, Aventura",
         "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zqhO44oc0pWM32seJeXMcjPLvwV.jpg",
-        "Popularity": "66%",
+        "popularity": "66%",
         "date": "27 abr 2023"
     },
     {
@@ -68,7 +68,7 @@
         "name": "Bird Box Barcelona",
         "category": "Suspense, Drama, Ciencia ficción, Terror",
         "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg",
-        "Popularity": "60%",
+        "popularity": "60%",
         "date": "14 jul 2023"
     },
     {
@@ -76,7 +76,7 @@
         "name": "Sound of Freedom",
         "category": "Acción, Drama",
         "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1laG6ntAYpTOxx2H5Gh0Ku0HZON.jpg",
-        "Popularity": "80%",
+        "popularity": "80%",
         "date": "3 jul 2023"
     },
     {
@@ -84,7 +84,7 @@
         "name": "Elemental",
         "category": "Animación, Comedia, Familia, Fantasía, Romance",
         "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jAxJimwdCHbdNRPnR6ciwhj6bXP.jpg",
-        "Popularity": "76%",
+        "popularity": "76%",
         "date": "14 jun 2023"
     }    
 ]
