@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Json app',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        canvasColor: Colors.cyan[50],
       ),
       home: const MyHomePage(),
     );
